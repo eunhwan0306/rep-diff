@@ -1,2 +1,2 @@
 print('baisc')
-print(list('python')
+print(list('python'))
